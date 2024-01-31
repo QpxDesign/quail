@@ -167,7 +167,7 @@ function App() {
           >
             <a
               style={{ color: "black", fontStyle: "italic" }}
-              href="quinnpatwardhan.com"
+              href="https://quinnpatwardhan.com"
             >
               Made With ❤️ by Quinn Patwardhan
             </a>
